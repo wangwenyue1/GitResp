@@ -8,5 +8,5 @@ package com.wwy.utils;
  */
 public class Persion {
     private String name;
-
+    private int age;
 }
