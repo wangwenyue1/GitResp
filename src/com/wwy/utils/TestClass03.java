@@ -8,5 +8,6 @@ package com.wwy.utils;
  */
 public class TestClass03 {
     private String  name;
+    private int age;
 
 }
